@@ -1,1 +1,1 @@
-# Computer_Intergrated_Manu_-CIM-
+This code uses Blender's Python API to create four 3D objects: two boxes and two lids, and positions them in a 3D space. The first box and lid are created using a set of vertices and faces, while the second box and lid are created by scaling up the first box and lid. The code also positions the second box and lid to the right of the first box and lid. This code is useful for creating 3D models and visualizations in Blender, a popular open-source 3D software.
